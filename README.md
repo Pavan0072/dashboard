@@ -3,7 +3,12 @@
 A full-stack MERN application to **search, filter, and paginate companies**.  
 This app allows users to search companies by **name**, filter by **location** and **industry**, and view results with **pagination**.
 
+
 ---
+## Links
+
+- **Frontend:** [https://company-api-search.netlify.app/](https://company-api-search.netlify.app/)  
+
 
 ## 🚀 Features
 
