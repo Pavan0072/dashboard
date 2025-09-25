@@ -1,0 +1,53 @@
+.company-list {
+    margin-top: 20px;
+    padding:5px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+         
+  
+    
+
+}
+.company-item{
+    width: 400px;
+    border:1px solid red;
+    margin:5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius:10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+.description{
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:14px;
+    font-style: italic;
+    font-weight: medium;
+    text-align: center;
+    word-wrap: break-word;
+}
+.description-2{
+    color:rgb(24, 25, 27);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:14px;
+    font-style: italic;
+    font-weight: medium;
+    text-align: center;
+}
+
+.company-details{
+   margin-left: 5px;
+   margin-right: 5px;
+    color:royalblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width:120px;
+    height:120px;
+    
+    object-fit:cover;
+    margin-right:10px;
+}
